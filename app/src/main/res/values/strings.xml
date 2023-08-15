@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Profile Card app</string>
     <string name="irfando_aritonang">Irfando Aritonang</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="no_Hp">+62 82287196622</string>
+    <string name="instagram">\@irfando430</string>
+    <string name="email">irfando410@gmail.com</string>
 </resources>
